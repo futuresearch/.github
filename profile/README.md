@@ -2,7 +2,7 @@
 
 ### FutureSearch gives **unbiased**, **deeply-researched** answers to **hard** questions about the world.
 
-Want to try it in your business? [Get in touch](https://futuresearch.ai/request-a-demo), and see [examples](#just-show-me-examples). This page describes how FutureSearch answers judgment-heavy questions other AI systems fall short on.
+This page describes how FutureSearch answers judgment-heavy questions other AI systems fall short on.
 
 - [Reasoning with LLMs](#reasoning-with-llms)
   - [Six steps to answer hard questions](#six-steps-to-answer-hard-questions)
@@ -22,7 +22,6 @@ Want to try it in your business? [Get in touch](https://futuresearch.ai/request-
 - [The New York Times lawsuit on whether OpenAI can train & serve on their data](https://app.futuresearch.ai/forecasts/QsYKs/public)
 - [The 2024 U.S. Supreme Court case on whether to uphold emergency abortion care protections](https://app.futuresearch.ai/forecasts/A873f/public)
 - [The 2024 U.S. Supreme Court case on whether to grant former presidents immunity from prosecution](https://app.futuresearch.ai/forecasts/iFLVq/public)
-
 
 ## Reasoning with LLMs
 FutureSearch is different from other LLM-based research and analysis tools in that it relies on the [techniques of modern judgmental forecasting](https://en.wikipedia.org/wiki/Superforecasting:_The_Art_and_Science_of_Prediction).
