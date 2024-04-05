@@ -52,7 +52,7 @@ There are a variety of techniques to get higher quality outputs for each stage o
 
 We don’t here describe which combinations of these techniques we use to produce each result, that’s the FutureSearch special sauce. But we will suggest some subtasks we have to handle to get great results.
 
-Let’s look at a customer question, [Will the DOJ’s antitrust suit against Apple will result in Apple being forced to change its business?](https://app.futuresearch.ai/forecasts/eMocg/public), and see how we apply the six steps.
+Let’s look at a customer question, [Will the DOJ’s antitrust suit against Apple result in Apple being forced to change its business?](https://app.futuresearch.ai/forecasts/eMocg/public), and see how we apply the six steps.
 
 ### 1. What is a basic summary of this situation?
 ![background](/README-background.png)
