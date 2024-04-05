@@ -93,14 +93,14 @@ Next, for each reference class, FutureSearch conducts a historical search to fin
 
 Finally, FutureSearch chooses a statistical model for the data found. In this example, it used a beta distribution, guessed a prior, and then did a Bayesian update for each data point to generate a posterior distribution. Time-series and Poisson distributions are commonly useful too.
 
-In this example, the prior was very weak, and FutureSearch only arrived at a confident estimate after looking at the outcomes of ~20 instances matching the reference class.
+In this example, the prior was very weak, and FutureSearch only arrived at a confident posterior estimate after looking at the outcomes of ~20 instances matching the reference class.
 
 ### 5. How do I weigh the conflicting results of the models?
 ![weights](/README-weights.png)
 
-Here the task is one of interpretation. Statistical models focusing on key features of the situation will imply different answers to the original question. Considering all of them together, an expert forecaster would weigh the tradeoff between specificity - historical events that closely match the current situation - and generality, where one can find many more data points. closely matching the currentthem based on how well they capture the crucial characteristics of the situation, but still have robust data. There’s a tradeoff of generality and specificity.
+Here the task is one of interpretation. Statistical models focusing on key features of the situation will imply different answers to the original question. Considering all of them together, an expert forecaster would weigh the tradeoff between specificity - historical events that closely match the current situation - and generality, where one can find many more data points. There is judgment involved in deciding which facets are more central to the likely outcome.
 
-For example here, one model considers all major lawsuits against Apple, not just antitrust. Another considers antitrust cases against tech companies. Which is more important: that the case is about Apple, or that the case is antitrust?
+In this example, one model considers all major lawsuits against Apple, not just antitrust. Another considers antitrust cases against tech companies. Which is more important: that the case is about Apple, or that the case is antitrust?
 
 We generate weights and justifications, and use them to compute a single historical forecast.
 
