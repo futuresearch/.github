@@ -2,7 +2,7 @@
 
 ### FutureSearch gives **unbiased**, **deeply-researched** answers to **hard** questions about the world.
 
-This page describes how FutureSearch answers judgment-heavy questions other AI systems fall short on.
+This page describes one flow of how FutureSearch answers judgment-heavy questions other AI systems fall short on.
 
 - [Reasoning with LLMs](#reasoning-with-llms)
   - [Six steps to answer hard questions](#six-steps-to-answer-hard-questions)
